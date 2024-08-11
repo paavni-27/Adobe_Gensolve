@@ -1,9 +1,9 @@
 
-# Curve Master: 
+# Curve Master: Curve Regularization and Symmetry Detection
 
 This project focused on processing and analyzing curve data by implementing multiple computational techniques such as curve regularization, symmetry detection, and curve completion. The ultimate goal was to convert raw, potentially noisy or incomplete curve data into precise, geometrically regular shapes. The final output was visualized and saved in SVG and PNG formats for further analysis.
 
-### Key Steps and Approaches:
+### Steps and Approaches:
 
 1. *Loading CSV Data:*
    - *Why:* The first step involved loading the curve data from CSV files using the read_csv function. This data represented various curves that needed to be processed.

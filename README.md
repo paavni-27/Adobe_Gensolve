@@ -37,6 +37,10 @@ This project focused on processing and analyzing curve data by implementing mult
      - We used matplotlib to plot the processed curves, enabling a visual comparison between the original and processed versions.
      - The curves were then exported to SVG and PNG formats using the svgwrite and cairosvg libraries. This allowed the processed data to be used in various other applications or for further detailed analysis.
    - *Outcome:* The final visualizations clearly demonstrated the improvements in curve regularization, symmetry, and completion, making the curves suitable for use in any application requiring precise geometric data.
+   - ![image](https://github.com/user-attachments/assets/fc9b205a-3180-4440-bee0-ac027d6d5a0c)
+   - ![image](https://github.com/user-attachments/assets/335255ff-c2e0-4067-92b8-b7d6acd70cd9)
+
+
 
 ### Outcomes:
 
